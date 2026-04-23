@@ -7,9 +7,8 @@ for i in range(1,10):
     print("*"*i)
 print("-------------------")
 
-i in range(1,10):
-    prin
-for t(" *"*i)"*(9-i),"f
+for i in range(1,10):
+    print((" *"*i)"*(9-i))
 
 
 print("-------------------")
